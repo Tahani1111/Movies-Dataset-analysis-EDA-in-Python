@@ -43,3 +43,10 @@ What genre is most popular among viewers?
 • revenue: The revenue earned by the movie.
 
 • country: The country where the movie was produced or originated from.
+
+### Importing Libraries:
+![](loading libreries.png)
+
+
+
+
