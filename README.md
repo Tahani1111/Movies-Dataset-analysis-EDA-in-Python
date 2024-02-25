@@ -107,5 +107,40 @@ What genre is most popular among viewers?
 
 **Insight**: The country that generates the highest total revenue is Austrailia followed by United States.
 
+### Which language generates the highest revenue?
+![](Lanaguge.png)
+![](Lanageug_visual.png)
+
+**Insight**: English language seems to bring in the highest total revenue across all languages.
+
+### What genre is most popular among viewers?
+![](popular.png)
+![](lanagu_visual.png)
+
+**Insight**: Most rated by viewers is the Drama genre.
+
+## Conclusions
+
+When working with the data from Amazing Movie Studio, we've uncovered fascinating insights that shed light on the studio's past performance and offer guidance for future endeavors.
+
+As we assesed the rate scores given by movie watchers, the analysis shows a positively skewed distribution. It's clear the studio's movies are hitting the right notes with the audience, making it a compelling destination for investment.
+
+As regards to finance, revenue and budget has a positive correlation of 0.68 suggesting that when the studio pumps more money into its productions, the revenue tends to follow suit. It's a promising sign that investing in high-budget projects could yield substantial returns.
+
+Despite revenue and budget having a positive relationship, ratings doesn`t seem to follow the same relationship, as the studio splurges more on a project, the ratings might take a slight dip. However, it's not a deal-breaker quality content still reigns supreme, and audiences are willing to overlook a few bumps in the budget road if the storytelling hits home.
+
+Concerning the genres, Drama steals the spotlight, captivating audiences and dominating the scene for the past decade. But amidst the drama, documentaries seem to be taking a backseat viewership numbers suggest they're not getting the love they deserve.
+
+## Recommendations
+
+In our analysis of the past decade's data, we've distilled three essential strategies for maximizing Amazing Movie Studio's success:
+
+Focus on Top Genres: Drama, Action, and Comedy consistently draw in audiences and drive revenue. Prioritizing productions in these genres will capitalize on existing audience preferences and ensure strong financial returns.
+
+Leverage Top Production Locations: Australia, the US, and Korea have emerged as hotspots for successful productions. Investing in partnerships and projects in these countries can tap into established talent pools and production infrastructures, increasing the likelihood of box office success.
+
+Target Top Languages: English, Japanese, and Korean have been the primary languages driving revenue growth. Tailoring productions to these languages will help the studio reach broader international audiences and maximize revenue potential.
+
+Conclusively, investing in quality productions will lead to high returns.
 
 
