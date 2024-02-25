@@ -65,10 +65,47 @@ What genre is most popular among viewers?
 ### Date Converting and Extracting 
 ![](Date.png)
 
+## Exploratory Data Analysis
+### Correlation Matrix Heatmap
+![](Correlation_Matrix.png)
+  ![](Corr_Vis.png)
+### Is there a correlation between factors like budget and ratings? Do higher-budget productions tend to receive higher ratings?
+![](Budeget_and_rating.png)
+![](BudegtandRate_Visu.png)
 
+1 indicates a perfect positive linear relationship
 
+0 indicates no linear relationship
 
+-1 indicates a perfect negative linear relationship
 
+**Insight**: Since the correlation coefficient is negative and relatively close to 0, it suggests a weak negative correlation between the two factors being analyzed. Specifically, a correlation of approximately -0.21 implies that as one variable (in this case, budget) increases, the other variable (ratings) tends to decrease slightly, but the relationship is not very strong.
+
+### How does budget allocation impact revenue generation?
+![](Budegtand_revenue.png)
+![](Budetandrevenu_Vis.png)
+
+**Insight**: It seems that there is a correlation between budget spent and revenue generated.
+
+### How does Rate score allocation impact revenue generation?
+![](Ratingand_revenu.png)
+![](RatingandRevenu_Vis.png)
+
+**Insight**: We can`t seem to pinpoint if there is any correlation between revenue and rate_score from the scatter chart. We will have to use a barchart to measure if there is any relationship.
+
+### Are there any notable trends in revenue generation over time?
+
+![](Revenueovertime.png)
+![](Rovertime_visual.png)
+
+**Insight**: We can note that there has been an increase in movie/TV_Shows production over the years.
+
+### What are the top 10 countries that generate the highest revenue?
+
+![](topcountries.png)
+![](topcounties_visual.png)
+
+**Insight**: The country that generates the highest total revenue is Austrailia followed by United States.
 
 
 
