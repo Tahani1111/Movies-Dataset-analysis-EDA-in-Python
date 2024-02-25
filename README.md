@@ -62,6 +62,9 @@ What genre is most popular among viewers?
 ### Checking Null Values 
 ![](Null_demostration.png)
 
+### Date Converting and Extracting 
+![](Date.png)
+
 
 
 
