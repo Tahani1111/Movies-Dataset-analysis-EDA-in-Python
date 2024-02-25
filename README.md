@@ -47,10 +47,10 @@ What genre is most popular among viewers?
 ### Importing Libraries:
 ![](importing.png)
 ## Data Cleaning
-### Missing Values Check 
+### Checking Missing Values  
 ![](Missing_values.png)
 
-### Check Duplicates 
+### Checking Duplicates 
 ![](Duplicates.png)
 
 ### Split Genre Column 
