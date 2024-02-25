@@ -45,7 +45,26 @@ What genre is most popular among viewers?
 • country: The country where the movie was produced or originated from.
 
 ### Importing Libraries:
-![](loading libreries.png)
+![](loading_libreries.png)
+## Data Cleaning
+### Missing Values Check 
+![](Missing_values.png)
+
+### Check Duplicates 
+![](Duplicates.png)
+
+### Split Genre Column 
+![](Split_co.png)
+
+### Drop Missing Values 
+![](drop_Missing.png)
+
+### Checking Null Values 
+![](Null_demostration.png)
+
+
+
+
 
 
 
